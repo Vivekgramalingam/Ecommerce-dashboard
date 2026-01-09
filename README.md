@@ -47,7 +47,7 @@ The dashboard helps stakeholders quickly understand **sales trends, profitabilit
 
 ## 🖼 Dashboard Preview
 
-![Vivek Ecommerce Sales Dashboard](Vivek_Ecommerce_Sales_Dashboard.pdf)
+(dashboard.png)
 
 ---
 
